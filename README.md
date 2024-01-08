@@ -1,7 +1,9 @@
 # AA1
 AA1_examination
 
-![Alt text](1.jpeg)
+<p align="center">
+  <img src="1.jpeg" alt="Alt text">
+</p>
 
 Project Overview:
 
