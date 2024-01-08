@@ -1,6 +1,8 @@
 # AA1
 AA1_examination
 
+![Alt text](1.jpeg)
+
 Project Overview:
 
 Objective:
