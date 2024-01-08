@@ -2,7 +2,12 @@
 AA1_examination
 
 Project Overview:
-I provide a thorough analysis of consumer behaviour in this paper using data that was downloaded from the Kaggle website. Using ensemble methods and decision tree analysis, aim to extract insights. This report will cover every step of the procedure, providing a justification for the decisions made and addressing any difficulties encountered during the study. The objective of this case study is to indicate whether the customer had stopped purchasing or not (1 Churn, 0 active) producing predictive modelling like decision trees and ensemble methods such as gradient boosting and random forest.
+
+Objective:
+The primary objective of this case study is to conduct a comprehensive analysis of consumer behavior based on data obtained from the Kaggle website. Specifically, the study aims to employ ensemble methods, including gradient boosting and random forest, along with decision tree analysis to extract valuable insights. The focal point is to determine whether customers have ceased purchasing (labeled as 1 for churn) or remain active (labeled as 0), utilizing predictive modeling techniques.
+
+Scope and Approach:
+The case study involves a thorough examination of consumer behavior patterns using advanced analytical methods. The chosen ensemble methods, namely gradient boosting and random forest, will be employed alongside decision tree analysis to develop predictive models. These models will aid in identifying customers who have potentially stopped making purchases.
 
 Role of SAS E-Miner: 
 SAS E-Miner is a data mining and predictive analytics tool. Its primary role is to help data scientists, statisticians, and business analysts build and deploy predictive models. It allows users to explore, analyze, and model data using various statistical and machine learning techniques. SAS E-Miner provides a graphical interface for designing, implementing, and evaluating predictive models without the need for extensive programming.
